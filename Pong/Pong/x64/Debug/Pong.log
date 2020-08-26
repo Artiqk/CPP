@@ -1,0 +1,3 @@
+﻿  Main.cpp
+d:\users\administrator\desktop\code\c++\pong\pong\pong\main.cpp(14): warning C4805: '==': unsafe mix of type 'sf::Event::EventType' and type 'bool' in operation
+  Pong.vcxproj -> D:\Users\Administrator\Desktop\Code\C++\Pong\Pong\x64\Debug\Pong.exe

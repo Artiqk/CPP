@@ -1,0 +1,17 @@
+﻿  Ball.cpp
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Ball.cpp(14,24): warning C4305:  'initialisation' : troncation de 'double' à 'float'
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Ball.cpp(15,10): warning C4244:  'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Ball.cpp(40,9): warning C4244:  '=' : conversion de 'int' en 'float', perte possible de données
+  Paddle.cpp
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Ball.cpp(67,7): warning C4244:  '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Paddle.cpp(27,68): warning C4244:  'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Paddle.cpp(27,68): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Paddle.cpp(27,68): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Paddle.cpp(27,68): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\Pong\Paddle.cpp(27,68): warning C4244:         ]
+  Génération de code en cours
+  1 of 109 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Pong.vcxproj -> C:\Users\artiqk\Desktop\Code\C++\Pong\Pong\x64\Release\Pong.exe

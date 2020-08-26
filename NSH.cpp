@@ -2,10 +2,12 @@
 #include <vector>
 #include <string>
 #include <bitset>
+#include <sstream>
 
 using namespace std;
 
 vector<string> decToBinary(unsigned long long n);
+string getHashString(bitset<63> binData);
 
 int main(void)
 {
@@ -48,10 +50,19 @@ int main(void)
 		}
 	}
 
-	cout << "NSH = " << hex << data.to_ullong() << endl;
+	string hash = getHashString(data);
+
+	cout << "NSH = " << hash << endl;
 
 	return 0;
 }
+
+string getHashString(bitset<63> binData){
+	stringstream hash;
+	hash << hex << binData.to_ullong();
+	return hash.str();
+}
+
 
 vector<string> decToBinary(unsigned long long n) 
 {

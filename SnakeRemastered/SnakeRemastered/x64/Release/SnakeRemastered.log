@@ -1,0 +1,60 @@
+﻿  main.cpp
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,36): warning C4244:  'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,36): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,36): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,36): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,36): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,31): warning C4244:  'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,31): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,31): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,31): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(19,31): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(24,13): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(27,22): warning C4244:  '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(27,22): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(27,22): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(27,22): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(27,22): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(28,22): warning C4244:  '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(28,22): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(28,22): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(28,22): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Fruit.h(28,22): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,36): warning C4244:  'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,36): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,36): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,36): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,36): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,31): warning C4244:  'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,31): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,31): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,31): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(32,31): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:  'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:             T=unsigned int
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:         and
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(106,53): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:  'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:         with
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:             T=unsigned int
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:         and
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:         [
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:             T=float
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(112,77): warning C4244:         ]
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(127,18): warning C4244:  'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(129,19): warning C4244:  'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(131,22): warning C4244:  'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\SnakeRemastered\Snake.h(133,21): warning C4244:  'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  0 of 140 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  SnakeRemastered.vcxproj -> C:\Users\artiqk\Desktop\Code\C++\SnakeRemastered\x64\Release\SnakeRemastered.exe
